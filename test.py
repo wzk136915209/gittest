@@ -6,7 +6,6 @@ if __name__ == '__main__':
     222
     333
     #master
-    1111
     #remote
-    1111
+
 
