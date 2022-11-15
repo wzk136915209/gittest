@@ -2,6 +2,16 @@ import numpy
 
 if __name__ == '__main__':
     #dev
+    
+    
+    
+    
+    no
+    
+    
+    
+    
+    
     #remote 11
     111
     16
