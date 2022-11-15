@@ -2,6 +2,7 @@ import numpy
 
 if __name__ == '__main__':
     #dev
+    #remote 11
     16
     17
     #dev2
@@ -9,8 +10,8 @@ if __name__ == '__main__':
     2222
     #master
     #remote
-    333
     444
+    555
 
 
 
